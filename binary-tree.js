@@ -1,3 +1,9 @@
+/**
+ * References:
+ * http://cslibrary.stanford.edu/110/BinaryTrees.html
+ * https://www.ime.usp.br/~pf/algoritmos/aulas/bint.html
+ */
+
 function Node(data) {
     this.data = data;
     this.left = null;
